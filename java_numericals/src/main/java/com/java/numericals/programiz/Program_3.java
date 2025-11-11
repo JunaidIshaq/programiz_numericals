@@ -1,6 +1,8 @@
-package com.java.numericals;
+package com.java.numericals.programiz;
 
 public class Program_3 {
+
+    // Java Program to Multiply two Floating Point Numbers
 
     public static void main(String[] args) {
 

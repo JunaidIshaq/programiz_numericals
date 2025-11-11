@@ -1,9 +1,11 @@
-package com.java.numericals;
+package com.java.numericals.programiz;
 
 
 import java.util.Scanner;
 
 public class Program_1 {
+
+    // Java Program to Print an Integer (Entered by the User)
 
     public static void main(String[] args) {
         // Creates a reader instance which takes

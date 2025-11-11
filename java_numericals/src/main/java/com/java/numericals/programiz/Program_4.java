@@ -1,6 +1,8 @@
-package com.java.numericals;
+package com.java.numericals.programiz;
 
 public class Program_4 {
+
+    // Java Program to Find ASCII Value of a character
 
     public static void main(String[] args) {
 

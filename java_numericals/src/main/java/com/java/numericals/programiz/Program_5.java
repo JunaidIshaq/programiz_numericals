@@ -1,6 +1,8 @@
-package com.java.numericals;
+package com.java.numericals.programiz;
 
 public class Program_5 {
+
+    // Java Program to Compute Quotient and Remainder
 
     public static void main(String[] args) {
 

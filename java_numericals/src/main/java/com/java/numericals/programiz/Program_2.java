@@ -1,6 +1,8 @@
-package com.java.numericals;
+package com.java.numericals.programiz;
 
 public class Program_2 {
+
+    // Java Program to Add Two Integers
 
     public static void main(String[] args) {
         int first = 10;
