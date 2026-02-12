@@ -6,7 +6,7 @@ public class Program_8 {
 
     public static void main(String[] args) {
         char ch1 = 'i';
-        char ch2 = 'z';
+        char ch2 = 'o';
         ifelseStatement(ch1);
         switchCaseStatement(ch2);
     }

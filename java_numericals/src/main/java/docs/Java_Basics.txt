@@ -1,0 +1,28 @@
+1) What is Java ?
+
+Ans : Java is a high-level, object oriented programming language used to build software for almost every type of platform - web,
+mobile, desktop, cloud, microservices and more.
+
+Here's a simple, clear breakdown :
+
+What Java Is :
+1) Programming Language
+    a) Easy to read and write
+    b) Object-oriented (uses classes & objects)
+    c) Strongly typed (variables must have types)
+
+2) Platform-Independent
+    Java uses JVM (Java Virtual Machine) so code runs anywhere ("Write Once, Run Anywhere").
+
+3) Fast, Secure & Reliable
+    a) Automatic memory management (Garbage Collection)
+    b) Strong security features
+    c) High performance compared to many interpreted languages
+
+4) Used for
+    a) Enterprise applications
+    b) Servers & backend APIs
+    c) Android Apps
+    d) Cloud services
+    e) Banking systems
+    f) Big data frameworks (Hadoop etc.)
